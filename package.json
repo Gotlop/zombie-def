@@ -1,0 +1,11 @@
+{
+    "name": "zombie-shield-clone",
+    "version": "1.0.0",
+    "description": "Clone of ZombieShield game",
+    "scripts": {
+        "start": "serve public"
+    },
+    "dependencies": {
+        "serve": "^14.2.1"
+    }
+}
